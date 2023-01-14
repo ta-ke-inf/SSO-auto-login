@@ -31,7 +31,7 @@ python sso_auto_login.py <username> <passward> <minutes>
 ```
 sso_auto_login.py must take three command arguments.
 
-Args:
+Args
 username: your SSO username
 passward: your SSO passward
 minutes: You can choose how often you want to monitor the login screen.
