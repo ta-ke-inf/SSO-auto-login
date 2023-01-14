@@ -1,0 +1,13 @@
+# SSO auto login requirements
+# Usage: pip install -r requirements.txt
+
+# selenium
+selenium >= 4.7
+
+# Chrome Driver
+# Please check your Chrome Driver version and input
+# if error https://qiita.com/hanzawak/items/2ab4d2a333d6be6ac760
+chromedriver-binary #「==108.0.5359.71.0」 <- input version
+
+# Others
+schedule >= 1.1.0
