@@ -1,6 +1,7 @@
 # SSO-auto-login
 University of miyazaki SSO certification can be done automatically. All you have to do is stay at home.
 
+Regarding sso authentication, it is usually assigned with a dynamic IP address, which automatically times out after a certain period of time (about 16 hours) connected to the network. By using this program, you can log in automatically after a timeout by simply waiting a little while and using only a browser, without any network involvement.
 
 
 
@@ -36,4 +37,4 @@ Args
 - passward: your SSO passward
 - minutes: You can choose how often you want to monitor the login screen. ex) 30
 
-Regarding sso authentication, it is usually assigned with a dynamic IP address, which automatically times out after a certain period of time (about 16 hours) connected to the network. By using this program, you can log in automatically after a timeout by simply waiting a little while and using only a browser, without any network involvement.
+
