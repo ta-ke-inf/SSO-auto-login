@@ -25,9 +25,14 @@ If you get the following error, please select the 「chromedriver-binary」 vers
 
 
 # Usage
+execution
 ```
-python sso_auto_login.py <your username> <your passward> <minutes>
+python sso_auto_login.py <username> <passward> <minutes>
 ```
+sso_auto_login.py must take three command arguments.
 
-
+Args:
+username: your SSO username
+passward: your SSO passward
+minutes: You can choose how often you want to monitor the login screen.
 
