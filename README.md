@@ -14,8 +14,14 @@ SSO auto login at university of miyazaki
 ```
 chromedriver-binary == 109.0.5414.75
 ```
-If you get the following error, please select the version that is smaller and closest to your version.
+
+4. Install packages
+```
+pip install -r requirements.txt
+```
+
+If you get the following error, please select the 「chromedriver-binary」 version that is smaller and closest to your version.
 ![image](https://user-images.githubusercontent.com/115391575/212497730-e6022275-2998-4048-82a9-ec1e4749a8f3.png)
 
-4. 
+
 
