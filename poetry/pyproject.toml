@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "poetry"
+version = "0.1.0"
+description = ""
+authors = ["takeguchi0109 <hirotake.stu@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+chromedriver-binary = "108.0.5359.71.0"
+schedule = "^1.1.0"
+selenium = "^4.7.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
